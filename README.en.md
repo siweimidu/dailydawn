@@ -24,8 +24,8 @@
 
 ## Latest 3 issues
 
-- [2026-10-13 · Spatial developer tooling / Spatial navigation search growth / Codex CLI background daemons](https://siweimidu.github.io/dailydawn/en/2026/2026-10-13.html)
-  > Spatial navigation toolkit bilawalsidhu/gods-eye-view hits 1895 raw score on GitHub Trending amid surging spatial developer demand
+- [2026-10-13 · Passkey lock-in risks / Browser fingerprinting tracking / Identity sovereignty demand](https://siweimidu.github.io/dailydawn/en/2026/2026-10-13.html)
+  > Security analysts recently exposed passkeys as a vendor lock-in trap while browser fingerprints replace cookies for invisible user tracking
 - [2026-10-12 · Subversive browser city game / Privacy open source tool traction / Indie no-download game demand](https://siweimidu.github.io/dailydawn/en/2026/2026-10-12.html)
   > Housing-themed city-building game hits 531 HackerNews points today_window
 - [2026-10-11 · AI reverse engineering tool / Qwen uncensored GGUF port / Cross-platform RE traction](https://siweimidu.github.io/dailydawn/en/2026/2026-10-11.html)

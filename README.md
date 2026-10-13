@@ -24,8 +24,8 @@
 
 ## 最近 3 期日报
 
-- [2026-10-13 · 地理空间智能工具 / 垂直领域大模型 / 开发者工具主权](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-13.html)
-  > bilawalsidhu/gods-eye-view 登顶 GitHub，地理空间智能工具正在重塑开发者对现实世界的感知
+- [2026-10-13 · Passkeys 信任危机 / 身份认证替代方案 / 物联网边缘安全](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-13.html)
+  > 硬件级身份认证遭遇信任危机，Passkeys 陷阱倒逼零信任多模态架构转型
 - [2026-10-12 · AnyPS5登GitHub Trending / Yandex基础设施事件 / Qwen衍生量化覆盖消费级显卡](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-12.html)
   > 两款非逆向非主机类开源项目今日登GitHub Trending
 - [2026-10-11 · 低门槛逆向工具链 / 自托管逆向需求 / 双源逆向热度验证](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-11.html)
