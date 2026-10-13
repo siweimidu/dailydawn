@@ -16,12 +16,12 @@
 
 ## 最近 3 期日报
 
+- [2026-10-13 · 智能代理逆向自动化 / 大模型认知断层与本地化替代 / 自托管与全栈黑盒拆解工具](https://dailydawn.dev/zh/2026-10-13)
+  > morluto/rea 登顶开源榜单，智能代理正在重写逆向工程与软件拆解边界
 - [2026-10-12 · AnyPS5登GitHub Trending / Yandex基础设施事件 / Qwen衍生量化覆盖消费级显卡](https://dailydawn.dev/zh/2026-10-12)
   > 两款非逆向非主机类开源项目今日登GitHub Trending
 - [2026-10-11 · 低门槛逆向工具链 / 自托管逆向需求 / 双源逆向热度验证](https://dailydawn.dev/zh/2026-10-11)
   > morluto/rea今日登GitHub Trending榜首 逆向工具链覆盖低门槛变现
-- [2026-10-10 · 逆向自动化工具登榜 / 逆向需求热度暴涨 / 跨源自主部署升温](https://dailydawn.dev/zh/2026-10-10)
-  > rea今日登GitHub Trending 逆向自动化赛道热度冲高
 
 [全部归档 →](https://dailydawn.dev/archive)
 

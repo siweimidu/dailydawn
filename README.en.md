@@ -16,12 +16,12 @@
 
 ## Latest 3 issues
 
+- [2026-10-13 · morluto/rea reverse engineering / bilawalsidhu spatial tool / Codex CLI daemon background](https://dailydawn.dev/en/2026-10-13)
+  > GitHub repo morluto/rea hits 45327 stars today_window as reverse engineering tooling demands surge past legacy frameworks
 - [2026-10-12 · Subversive browser city game / Privacy open source tool traction / Indie no-download game demand](https://dailydawn.dev/en/2026-10-12)
   > Housing-themed city-building game hits 531 HackerNews points today_window
 - [2026-10-11 · AI reverse engineering tool / Qwen uncensored GGUF port / Cross-platform RE traction](https://dailydawn.dev/en/2026-10-11)
   > morluto/rea hits 25793 GitHub stars today as reverse engineering tool traction surges
-- [2026-10-10 · AI coding agent tools / Builder intent surge / Cross-platform agent traction](https://dailydawn.dev/en/2026-10-10)
-  > morluto/rea hits 14927 GitHub stars today as AI coding agent traction surges
 
 [Full archive →](https://dailydawn.dev/en/archive)
 
