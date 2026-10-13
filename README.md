@@ -16,12 +16,12 @@
 
 ## 最近 3 期日报
 
+- [2026-10-13 · Passkeys 信任危机 / 身份认证替代方案 / 物联网边缘安全](https://dailydawn.dev/zh/2026-10-13)
+  > 硬件级身份认证遭遇信任危机，Passkeys 陷阱倒逼零信任多模态架构转型
 - [2026-10-13 · 地理空间智能工具 / 垂直领域大模型 / 开发者工具主权](https://dailydawn.dev/zh/2026-10-13)
   > bilawalsidhu/gods-eye-view 登顶 GitHub，地理空间智能工具正在重塑开发者对现实世界的感知
 - [2026-10-13 · 智能代理逆向自动化 / 大模型认知断层与本地化替代 / 自托管与全栈黑盒拆解工具](https://dailydawn.dev/zh/2026-10-13)
   > morluto/rea 登顶开源榜单，智能代理正在重写逆向工程与软件拆解边界
-- [2026-10-12 · AnyPS5登GitHub Trending / Yandex基础设施事件 / Qwen衍生量化覆盖消费级显卡](https://dailydawn.dev/zh/2026-10-12)
-  > 两款非逆向非主机类开源项目今日登GitHub Trending
 
 [全部归档 →](https://dailydawn.dev/archive)
 

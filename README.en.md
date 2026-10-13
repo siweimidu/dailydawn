@@ -16,12 +16,12 @@
 
 ## Latest 3 issues
 
+- [2026-10-13 · Passkey lock-in risks / Browser fingerprinting tracking / Identity sovereignty demand](https://dailydawn.dev/en/2026-10-13)
+  > Security analysts recently exposed passkeys as a vendor lock-in trap while browser fingerprints replace cookies for invisible user tracking
 - [2026-10-13 · Spatial developer tooling / Spatial navigation search growth / Codex CLI background daemons](https://dailydawn.dev/en/2026-10-13)
   > Spatial navigation toolkit bilawalsidhu/gods-eye-view hits 1895 raw score on GitHub Trending amid surging spatial developer demand
 - [2026-10-13 · morluto/rea reverse engineering / bilawalsidhu spatial tool / Codex CLI daemon background](https://dailydawn.dev/en/2026-10-13)
   > GitHub repo morluto/rea hits 45327 stars today_window as reverse engineering tooling demands surge past legacy frameworks
-- [2026-10-12 · Subversive browser city game / Privacy open source tool traction / Indie no-download game demand](https://dailydawn.dev/en/2026-10-12)
-  > Housing-themed city-building game hits 531 HackerNews points today_window
 
 [Full archive →](https://dailydawn.dev/en/archive)
 
