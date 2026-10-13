@@ -6,7 +6,7 @@ import re
 from pathlib import Path
 
 from openai import OpenAI, RateLimitError
-from tenacity import retry, retry_not, stop_after_attempt, wait_exponential, retry_if_exception_type
+from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception
 
 PROMPTS_DIR = Path(__file__).parent.parent.parent / "prompts"
 
@@ -16,7 +16,7 @@ PROMPTS_DIR = Path(__file__).parent.parent.parent / "prompts"
 _RETRY = retry(
     stop=stop_after_attempt(5),
     wait=wait_exponential(multiplier=2, max=60),
-    retry=retry_if_exception_type(Exception) & retry_not(RateLimitError),
+    retry=retry_if_exception(lambda err: not isinstance(err, RateLimitError)),
 )
 
 
