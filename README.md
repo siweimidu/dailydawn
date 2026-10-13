@@ -16,12 +16,12 @@
 
 ## 最近 3 期日报
 
+- [2026-10-13 · 地理空间智能工具 / 垂直领域大模型 / 开发者工具主权](https://dailydawn.dev/zh/2026-10-13)
+  > bilawalsidhu/gods-eye-view 登顶 GitHub，地理空间智能工具正在重塑开发者对现实世界的感知
 - [2026-10-13 · 智能代理逆向自动化 / 大模型认知断层与本地化替代 / 自托管与全栈黑盒拆解工具](https://dailydawn.dev/zh/2026-10-13)
   > morluto/rea 登顶开源榜单，智能代理正在重写逆向工程与软件拆解边界
 - [2026-10-12 · AnyPS5登GitHub Trending / Yandex基础设施事件 / Qwen衍生量化覆盖消费级显卡](https://dailydawn.dev/zh/2026-10-12)
   > 两款非逆向非主机类开源项目今日登GitHub Trending
-- [2026-10-11 · 低门槛逆向工具链 / 自托管逆向需求 / 双源逆向热度验证](https://dailydawn.dev/zh/2026-10-11)
-  > morluto/rea今日登GitHub Trending榜首 逆向工具链覆盖低门槛变现
 
 [全部归档 →](https://dailydawn.dev/archive)
 
