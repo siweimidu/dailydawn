@@ -93,6 +93,20 @@ jobs:
           echo "::error::git push still failing after 5 attempts."
           exit 1
 
+      # 推送当日日报：Telegram 摘要卡片 + QQ 邮箱全文（缺配置则自动跳过）
+      - name: Push to Telegram & Email
+        continue-on-error: true
+        env:
+          SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python scripts/notify_push.py
+
       - name: Notify n8n webhook
         if: success()
         continue-on-error: true
