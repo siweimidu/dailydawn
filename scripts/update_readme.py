@@ -4,11 +4,12 @@
 幂等：用 HTML 注释做 sentinel；每次运行覆盖 sentinel 之间的内容。
 首次运行（找不到 sentinel）时插入到首个 `---` 横线之前。
 
-用途：把 GitHub 仓库流量反哺到 dailydawn.dev 站点 SEO（双向引流）。
+链接指向本仓库自己的 GitHub Pages（SITE_BASE_URL 可覆盖）。
 """
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 from datetime import datetime, timezone
@@ -18,7 +19,7 @@ REPO_ROOT = Path(__file__).parent.parent
 META_RECENT = REPO_ROOT / "meta" / "recent-taglines.jsonl"
 README_ZH = REPO_ROOT / "README.md"
 README_EN = REPO_ROOT / "README.en.md"
-SITE_URL = "https://dailydawn.dev"
+SITE_URL = os.getenv("SITE_BASE_URL", "https://siweimidu.github.io/dailydawn").rstrip("/")
 
 SENTINEL_START = "<!-- LATEST_ISSUES_START -->"
 SENTINEL_END = "<!-- LATEST_ISSUES_END -->"
@@ -33,14 +34,21 @@ def _load_recent(n: int = 3) -> list[dict]:
     except OSError:
         return []
     entries: list[dict] = []
+    seen_dates: set[str] = set()
     for line in reversed(lines):
         line = line.strip()
         if not line:
             continue
         try:
-            entries.append(json.loads(line))
+            entry = json.loads(line)
         except json.JSONDecodeError:
             continue
+        # 同一天可能因重跑产生多条记录，按日期只保留最新的那条
+        date = entry.get("date", "")
+        if not date or date in seen_dates:
+            continue
+        seen_dates.add(date)
+        entries.append(entry)
         if len(entries) >= n:
             break
     return entries
@@ -52,15 +60,15 @@ def _build_block(entries: list[dict], lang: str) -> str:
         return ""
     heading = "## 最近 3 期日报" if lang == "zh" else "## Latest 3 issues"
     suffix_label = "全部归档 →" if lang == "zh" else "Full archive →"
-    archive_path = "/archive" if lang == "zh" else "/en/archive"
+    archive_path = f"/{lang}/"
 
     lines = [SENTINEL_START, "", heading, ""]
     for e in entries:
         date = e.get("date", "?")
         tagline = e.get(f"tagline_{lang}") or e.get(f"tagline_{'en' if lang == 'zh' else 'zh'}") or ""
         themes = e.get(f"top3_themes_{lang}") or []
-        path = f"/zh/{date}" if lang == "zh" else f"/en/{date}"
-        url = f"{SITE_URL}{path}"
+        # 本仓库 Pages 的日期页路径：/<lang>/<YYYY>/<YYYY-MM-DD>.html
+        url = f"{SITE_URL}/{lang}/{date[:4]}/{date}.html"
 
         # 标题：日期 + topics（首选 ≤3 项）；fallback tagline
         title_parts = themes[:3] if themes else ([tagline] if tagline else [])

@@ -58,6 +58,8 @@ jobs:
       # README 顶部注入「最近 3 期日报」链接（双向引流：GitHub → 站点）
       - name: Sync README latest issues
         continue-on-error: true
+        env:
+          SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}
         run: python scripts/update_readme.py
 
       # 生成 RSS 2.0 + JSON Feed（n8n 可直接订阅 feed/zh.xml、feed/zh.json）

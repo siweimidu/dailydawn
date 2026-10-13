@@ -4,156 +4,231 @@
 
 <h1 align="center">DailyDawn · Daily AI brief for indie builders</h1>
 
+<p align="center">
+  Pulls 7 tech signal sources every day → multi-agent analysis → bilingual report → web / RSS / Telegram / email
+</p>
+
 <p align="center"><b>🌐 <a href="./README.en.md">English</a> · <a href="./README.md">中文</a></b></p>
+
+<p align="center">
+  <a href="https://github.com/siweimidu/dailydawn/actions/workflows/daily-report.yml"><img src="https://github.com/siweimidu/dailydawn/actions/workflows/daily-report.yml/badge.svg" alt="Daily Report" /></a>
+  <a href="https://siweimidu.github.io/dailydawn/"><img src="https://img.shields.io/badge/site-GitHub%20Pages-blue" alt="Pages" /></a>
+  <a href="https://siweimidu.github.io/dailydawn/feed/en.xml"><img src="https://img.shields.io/badge/RSS-subscribe-orange" alt="RSS" /></a>
+</p>
 
 > **30 minutes every morning to see what to ship, what to skip, who's eating whose lunch.**
 
-[![Daily Report](https://github.com/TangSY/dailydawn/actions/workflows/daily-report.yml/badge.svg)](https://github.com/TangSY/dailydawn/actions/workflows/daily-report.yml)
-[![Latest EN](https://img.shields.io/badge/Today%20EN-en%2Ftoday.md-orange)](./en/)
-[![Latest zh](https://img.shields.io/badge/今日中文-zh%2F今日.md-orange)](./zh/)
+---
 
 <!-- LATEST_ISSUES_START -->
 
 ## Latest 3 issues
 
-- [2026-10-13 · Spatial developer tooling / Spatial navigation search growth / Codex CLI background daemons](https://dailydawn.dev/en/2026-10-13)
+- [2026-10-13 · Spatial developer tooling / Spatial navigation search growth / Codex CLI background daemons](https://siweimidu.github.io/dailydawn/en/2026/2026-10-13.html)
   > Spatial navigation toolkit bilawalsidhu/gods-eye-view hits 1895 raw score on GitHub Trending amid surging spatial developer demand
-- [2026-10-13 · morluto/rea reverse engineering / bilawalsidhu spatial tool / Codex CLI daemon background](https://dailydawn.dev/en/2026-10-13)
-  > GitHub repo morluto/rea hits 45327 stars today_window as reverse engineering tooling demands surge past legacy frameworks
-- [2026-10-12 · Subversive browser city game / Privacy open source tool traction / Indie no-download game demand](https://dailydawn.dev/en/2026-10-12)
+- [2026-10-12 · Subversive browser city game / Privacy open source tool traction / Indie no-download game demand](https://siweimidu.github.io/dailydawn/en/2026/2026-10-12.html)
   > Housing-themed city-building game hits 531 HackerNews points today_window
+- [2026-10-11 · AI reverse engineering tool / Qwen uncensored GGUF port / Cross-platform RE traction](https://siweimidu.github.io/dailydawn/en/2026/2026-10-11.html)
+  > morluto/rea hits 25793 GitHub stars today as reverse engineering tool traction surges
 
-[Full archive →](https://dailydawn.dev/en/archive)
+[Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
 <!-- LATEST_ISSUES_END -->
 
+## 📖 Where to read
+
+| What | URL |
+|---|---|
+| Site home | <https://siweimidu.github.io/dailydawn/> |
+| Chinese archive | <https://siweimidu.github.io/dailydawn/zh/> |
+| English archive | <https://siweimidu.github.io/dailydawn/en/> |
+| RSS (English) | <https://siweimidu.github.io/dailydawn/feed/en.xml> |
+| JSON Feed | <https://siweimidu.github.io/dailydawn/feed/en.json> |
+| Raw Markdown | `https://raw.githubusercontent.com/siweimidu/dailydawn/main/en/<year>/<date>.md` |
+| Telegram | [@dailydawn_bot](https://t.me/dailydawn_bot) — digest pushed daily at 08:00 CST |
+| Email | Full HTML issue delivered daily at 08:00 CST |
+
+Generated automatically every day at **00:00 UTC** (08:00 Beijing time). No manual work.
+
 ---
 
-## Why read it daily
+## 🤔 What this is
 
-You probably bounce between HN, Product Hunt, Reddit, HuggingFace, and GitHub Trending every morning, manually piecing together "what actually happened today." LLMs do this faster and more thoroughly than humans can.
+Every morning you probably bounce between Hacker News, Product Hunt, Reddit, HuggingFace, GitHub Trending and V2EX, manually piecing together "what actually happened today." DailyDawn hands that to an LLM: pull 150+ raw signals → dedupe across sources → sort into 5 dimensions → one agent per dimension digs deep → an editor-in-chief synthesizes the report.
 
-DailyDawn handles it for you: every day at UTC 00:00 it pulls 150+ raw signals from 7 sources, dedupes across them, sorts them into 5 dimensions (**Launch discoveries / Tech stack / Competitive intel / Demand radar / Trend verdict**), spins up one agent per dimension for deep analysis, and has an editor-in-chief synthesize a structured bilingual report.
+**Each issue is ~5,500 English words and contains:**
 
-Each issue is around 5,000 Chinese characters / 5,500 English words and contains:
-
-- **20 today-specific deep sub-sections** — questions are dynamically generated from today's actual signals; they change every day
+- **20 today-specific deep sections** — questions are generated from today's actual signals, so they change every day
 - **Three-tier build advice** — today's 2-hour build / weekend extension / this week's longer bet / weekly risk
 - **Cross-source keyword growth** — Google Trends 7-day rising queries that surface buyer intent
-- Everything organized around "**what should an indie builder do this week**" — not news regurgitation
+- Organized around "**what should an indie builder do this week**" — not news regurgitation
+
+The 5 dimensions (also the 5 chapters of each issue):
+
+| Dimension | Question it answers |
+|---|---|
+| 🔍 Launch discoveries | What new demand or play just appeared |
+| 🧰 Tech stack | What to build with, what to avoid |
+| ⚔️ Competitive intel | Who is doing what, whose moat is crumbling |
+| 📡 Demand radar | What users actually search for and complain about |
+| 📈 Trend verdict | What is noise, what is an inflection point |
 
 ---
 
-## Read now
+## 🚀 How to use it
 
-- 📖 Today: [English](./en/) · [中文](./zh/)
-- 📦 Full archive: [English](./en/2026/) · [中文](./zh/2026/)
-- 🌐 Web: <https://dailydawn.dev>
-- 📬 Email subscription: <https://dailydawn.dev> (bilingual, 1-click language switch)
-- 📡 RSS / JSON Feed: <https://dailydawn.dev/en.json> · <https://dailydawn.dev/zh.json>
+### 1. Just read the site
 
----
+Open <https://siweimidu.github.io/dailydawn/>, updated daily after 08:00 CST.
 
-## What every issue looks like
+### 2. RSS (best for n8n / readers)
 
 ```
-# DailyDawn · 2026-04-18
-
-> 📍 Top 3 signals
-> 1. High confidence: …1937 votes / 1425 comments…
-> 2. External find: …"agent memory" search +120% in 7d…
-> 3. Double validation: …HN + PH + HuggingFace cross-source overlap…
-
-## 🗣 Editor's take (600+ word POV opener)
-## 🎯 Today's 2-hour build (one concrete actionable idea)
-
-## Launch discoveries  (4 today-specific sub-questions)
-## Tech stack          (4)
-## Competitive intel   (4)
-## Demand radar        (4)
-## Trend verdict       (4, with keyword growth)
-
-## 🔥 Action triggers
-### Weekend extension build
-### Longer bet this week
-### Biggest risk / trap this week
+https://siweimidu.github.io/dailydawn/feed/en.xml
 ```
 
-5 sections × 4 today-specific sub-questions = **20 deep angles**, all dynamically generated from today's actual signals (so the questions change daily). Every sub-section comes with a **Key call** and a **Counterpoint**.
+Works with Feedly, Inoreader, FreshRSS, or n8n's **RSS Read** node.
+
+### 3. Telegram
+
+Message `/start` to [@dailydawn_bot](https://t.me/dailydawn_bot) and you get a daily digest card (top 3 signals + link).
+
+### 4. Email
+
+An HTML issue lands in your inbox daily at 08:00 CST — forwardable to anyone, no login needed.
 
 ---
 
-## Data sources
+## 🔌 Plug it into n8n
 
-| Source | Method | Notes |
-|---|---|---|
-| Hacker News | Algolia API | Stories from last 24h with points>20 |
-| GitHub Trending | HTML scrape | Top 25 trending repos today |
-| Product Hunt | GraphQL API | Top 20 by votes today |
-| Reddit | Public JSON | 12 subreddits incl. r/indiehackers, r/SideProject |
-| HuggingFace | Public API | Models + datasets sorted by 7-day likes |
-| V2EX | Public API | Chinese tech community heat |
-| Google Trends | pytrends | 20 indie-builder keywords' 7-day growth |
+The report is already finished; n8n is for **re-processing** it — merging sources, translating, rewriting for social, or storing it.
 
-Any source failure auto-skips without blocking the pipeline.
+```
+Cron (daily 08:30, Asia/Shanghai)
+   ↓
+RSS Read  → URL: https://siweimidu.github.io/dailydawn/feed/en.xml
+             Max Items: 1
+   ↓
+HTTP Request → URL: {{ $json.link }}       # fetch the full daily page
+   ↓
+AI Agent / LLM node → your rewrite prompt
+   ↓
+Slack / Notion / database
+```
+
+**RSS item fields**: `title` (`DailyDawn · 2026-10-13`), `link` (daily page), `pubDate`, `description` (top-3 digest line).
+
+**Prefer structured JSON?** Use <https://siweimidu.github.io/dailydawn/feed/en.json> with an HTTP Request node — fields `items[].title / url / date_published / content_text`.
+
+> ⚠️ Set your cron after **08:30 CST**. The pipeline itself takes 3–8 minutes; fire too early and you get yesterday's issue.
 
 ---
 
-## How it works
+## ⚙️ How it works
 
 ```
-GitHub Actions cron · daily at UTC 00:00
+GitHub Actions cron · daily 00:00 UTC
     │
-    ├─ fetchers/*       Concurrently pull 150+ raw signals (~30s)
-    ├─ aggregator       Cross-source dedup · Top 60 + all Trends preserved
-    │
-    ├─ classifier               Sort signals into 5 buckets
-    ├─ question_generator       Generate 20 today-specific questions (zh + en)
-    ├─ source_digest            Per-source cluster summary
-    │
-    ├─ experts × 5 × 2 lang     5 experts × 4 sub-section deep analysis
-    └─ editor × 2 lang          POV opener + Top 3 + 3-tier build synthesis
+    ├─ fetchers/*          pull 150+ raw signals concurrently (~30s)
+    │   Hacker News · GitHub Trending · Product Hunt · Reddit
+    │   HuggingFace · V2EX · Google Trends
+    ├─ aggregator          cross-source dedupe (canonical URL) + score merge → top 60
+    ├─ classifier          sort into 5 dimensions
+    ├─ question_generator  20 today-specific questions (zh + en)
+    ├─ source_digest       per-source clustered digest
+    ├─ experts × 5 × 2     five expert agents × two languages
+    └─ editor × 2          editor-in-chief synthesis
         │
-        ├─ renderer  → zh/YYYY/YYYY-MM-DD.md + en/...
-        ├─ git push
-        └─ webhook   → Web layer batch-sends email
+        ├─ renderer   → zh/YYYY/YYYY-MM-DD.md + en/...
+        ├─ build_feed → feed/*.xml · feed/*.json
+        ├─ git push   → triggers GitHub Pages deploy
+        └─ notify     → Telegram digest + email (optional)
 ```
 
-About 18 LLM calls per day, against any OpenAI-compatible gateway (DeepSeek / OpenAI / Doubao all work).
+**Stack**: Python 3.12 · fully async `httpx` / `asyncio` · OpenAI-compatible SDK · GitHub Actions scheduling · GitHub Pages hosting · no database, no server.
+
+**Cost**: GitHub Actions free tier + LLM free tier — **$0** in normal operation.
 
 ---
 
-## Tech stack
+## 🔧 Configuration & maintenance
 
-- **Python 3.12** · `httpx` · `asyncio` (fully async)
-- **OpenAI SDK** against any OpenAI-compatible LLM gateway
-- **GitHub Actions** for scheduling + commit + webhook
-- **pytrends** for Google Trends keyword growth
-- **tenacity** for exponential backoff + graceful degradation
-- ~1500 lines of Python, no database
+### Secrets (encrypted)
 
-The Web layer (subscriptions, email distribution) lives in a separate private repo — Cloudflare Workers + D1 + Queues + Resend.
+| Name | Purpose |
+|---|---|
+| `LLM_API_KEY` | LLM API key |
+| `LLM_BASE_URL` | OpenAI-compatible endpoint |
+| `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` | Optional Telegram push |
+| `SMTP_HOST` / `SMTP_PORT` / `SMTP_USERNAME` / `SMTP_PASSWORD` / `MAIL_TO` | Optional email push |
+
+### Variables (plain)
+
+| Name | Current value | Purpose |
+|---|---|---|
+| `LLM_MODEL` | `gemini-3.1-flash-lite` | Primary model |
+| `LLM_FALLBACK_MODELS` | `gemini-3.5-flash-lite,gemini-3-flash-preview` | Fallback chain on rate limit |
+| `SITE_BASE_URL` | `https://siweimidu.github.io/dailydawn` | Base URL used in generated links |
+
+### Switch models (no code change)
+
+| Provider | `LLM_MODEL` | `LLM_BASE_URL` |
+|---|---|---|
+| Gemini | `gemini-3.1-flash-lite` | `https://generativelanguage.googleapis.com/v1beta/openai` |
+| Groq | `openai/gpt-oss-120b` | `https://api.groq.com/openai/v1` |
+| DeepSeek | `deepseek-chat` | `https://api.deepseek.com` |
+
+### Tune the writing
+
+Edit `prompts/analyze.en.md` (English) and `prompts/analyze.zh.md` (Chinese) — not the code. Commit and the next run picks it up.
 
 ---
 
-## Run locally
+## 💻 Run locally
 
 ```bash
-git clone https://github.com/TangSY/dailydawn
+git clone https://github.com/siweimidu/dailydawn.git
 cd dailydawn
 pip install -r requirements.txt
-cp .env.example .env  # Fill in LLM_API_KEY / LLM_BASE_URL / LLM_MODEL
-python scripts/main.py  # One run produces zh/2026/today.md + en/2026/today.md
+cp .env.example .env      # fill LLM_API_KEY / LLM_BASE_URL / LLM_MODEL
+python scripts/main.py    # → zh/2026/<today>.md + en/2026/<today>.md
+```
+
+Build site and feeds only (no LLM calls, no cost):
+
+```bash
+python scripts/build_feed.py    # → feed/*.xml, feed/*.json
+python scripts/build_site.py    # → _site/ (preview locally)
+python -m http.server -d _site 8000
 ```
 
 ---
 
-## License
+## ❓ FAQ
 
-MIT
+**`429 RESOURCE_EXHAUSTED` / `Quota exceeded`?**
+Gemini's free tier is per-model: flash-lite allows **500 requests/day**. One pipeline run costs ~18–40 calls. This repo ships a fallback chain — when the primary model 429s it moves to `gemini-3.5-flash-lite`, then `gemini-3-flash-preview`. Seeing `⚠ rate limited on [...]; trying next model in chain` in the logs means fallback worked and the report still generated. Quotas reset at 00:00 UTC.
+
+**Want the full text on Telegram instead of the digest?**
+Add `TG_FULL: "1"` to the notify step's env in the workflow (sends multiple messages).
+
+**Single source failing?**
+Failures are skipped per source and never block the pipeline. GitHub Trending is HTML scraping (breaks if the page changes); Reddit's public JSON may 429 at peak times.
+
+**Will topics repeat?**
+No. `meta/recent-taglines.jsonl` keeps the last 7 days of themes and the prompt hard-forbids repeats.
 
 ---
 
-## Links
+## 🙏 Upstream & license
 
-- [LINUX DO](https://linux.do/)
+Forked from [TangSY/dailydawn](https://github.com/TangSY/dailydawn) (MIT). This fork adds:
+
+- RSS 2.0 / JSON Feed generation (`scripts/build_feed.py`)
+- GitHub Pages static site (`scripts/build_site.py` + `deploy-pages.yml`)
+- Telegram + email push (`scripts/notify_push.py`)
+- Rate-limit model fallback chain (`scripts/pipeline/llm.py`)
+
+Thanks to [@TangSY](https://github.com/TangSY) for the original project.
+
+[License: MIT](./LICENSE)
