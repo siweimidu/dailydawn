@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-10-14 · Autonomous binary reverse engineering / Spatial navigation developer tooling / System-level background daemon security](https://siweimidu.github.io/dailydawn/en/2026/2026-10-14.html)
+  > Autonomous binary analysis tools are rapidly displacing manual reverse engineering workflows across the developer ecosystem today
 - [2026-10-13 · Passkey lock-in risks / Browser fingerprinting tracking / Identity sovereignty demand](https://siweimidu.github.io/dailydawn/en/2026/2026-10-13.html)
   > Security analysts recently exposed passkeys as a vendor lock-in trap while browser fingerprints replace cookies for invisible user tracking
 - [2026-10-12 · Subversive browser city game / Privacy open source tool traction / Indie no-download game demand](https://siweimidu.github.io/dailydawn/en/2026/2026-10-12.html)
   > Housing-themed city-building game hits 531 HackerNews points today_window
-- [2026-10-11 · AI reverse engineering tool / Qwen uncensored GGUF port / Cross-platform RE traction](https://siweimidu.github.io/dailydawn/en/2026/2026-10-11.html)
-  > morluto/rea hits 25793 GitHub stars today as reverse engineering tool traction surges
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 

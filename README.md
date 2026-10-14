@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-10-14 · 开源逆向自动化 / 搜索热度暴涨 / 大模型空间计算](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-14.html)
+  > 逆向自动化工具链 morluto/rea 登顶开源榜单，智能代理正重写软件拆解边界
 - [2026-10-13 · Passkeys 信任危机 / 身份认证替代方案 / 物联网边缘安全](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-13.html)
   > 硬件级身份认证遭遇信任危机，Passkeys 陷阱倒逼零信任多模态架构转型
 - [2026-10-12 · AnyPS5登GitHub Trending / Yandex基础设施事件 / Qwen衍生量化覆盖消费级显卡](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-12.html)
   > 两款非逆向非主机类开源项目今日登GitHub Trending
-- [2026-10-11 · 低门槛逆向工具链 / 自托管逆向需求 / 双源逆向热度验证](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-11.html)
-  > morluto/rea今日登GitHub Trending榜首 逆向工具链覆盖低门槛变现
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
