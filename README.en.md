@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-10-15 · Local Voice Synthesis / Self-Healing Agent Tooling / Open Source Infrastructure Shift](https://siweimidu.github.io/dailydawn/en/2026/2026-10-15.html)
+  > Local voice synthesis repositories surge as developers abandon expensive cloud APIs for private high-fidelity audio processing
 - [2026-10-14 · Autonomous binary reverse engineering / Spatial navigation developer tooling / System-level background daemon security](https://siweimidu.github.io/dailydawn/en/2026/2026-10-14.html)
   > Autonomous binary analysis tools are rapidly displacing manual reverse engineering workflows across the developer ecosystem today
 - [2026-10-13 · Passkey lock-in risks / Browser fingerprinting tracking / Identity sovereignty demand](https://siweimidu.github.io/dailydawn/en/2026/2026-10-13.html)
   > Security analysts recently exposed passkeys as a vendor lock-in trap while browser fingerprints replace cookies for invisible user tracking
-- [2026-10-12 · Subversive browser city game / Privacy open source tool traction / Indie no-download game demand](https://siweimidu.github.io/dailydawn/en/2026/2026-10-12.html)
-  > Housing-themed city-building game hits 531 HackerNews points today_window
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
