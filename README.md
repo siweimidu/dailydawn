@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-10-16 · 开源逆向智能代理 / 开源语音合成工具 / 科学研究代理技能](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-16.html)
+  > 开源语音合成与科研代理技能库今日登顶 GitHub，垂直工具链正在替代通用大模型
 - [2026-10-15 · AI代理审计工具 / 语音合成工具链 / 代理合规准入](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-15.html)
   > AI代理审计工具成刚需，独立开发者抢滩企业安全准入市场
 - [2026-10-14 · 开源逆向自动化 / 搜索热度暴涨 / 大模型空间计算](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-14.html)
   > 逆向自动化工具链 morluto/rea 登顶开源榜单，智能代理正重写软件拆解边界
-- [2026-10-13 · Passkeys 信任危机 / 身份认证替代方案 / 物联网边缘安全](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-13.html)
-  > 硬件级身份认证遭遇信任危机，Passkeys 陷阱倒逼零信任多模态架构转型
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
