@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-10-17 · Local voice synthesis / Modular CLI daemons / Plugin-driven agent workflows](https://siweimidu.github.io/dailydawn/en/2026/2026-10-17.html)
+  > Anthropic plugin integration and private voice studio tools signal a shift toward modular local developer infrastructure
 - [2026-10-16 · Local Voice Synthesis / Scientific Agent Frameworks / Private Infrastructure Shift](https://siweimidu.github.io/dailydawn/en/2026/2026-10-16.html)
   > Voice synthesis and scientific agent frameworks dominate developer activity as open source infrastructure shifts toward specialized local execution
 - [2026-10-15 · Local Voice Synthesis / Self-Healing Agent Tooling / Open Source Infrastructure Shift](https://siweimidu.github.io/dailydawn/en/2026/2026-10-15.html)
   > Local voice synthesis repositories surge as developers abandon expensive cloud APIs for private high-fidelity audio processing
-- [2026-10-14 · Autonomous binary reverse engineering / Spatial navigation developer tooling / System-level background daemon security](https://siweimidu.github.io/dailydawn/en/2026/2026-10-14.html)
-  > Autonomous binary analysis tools are rapidly displacing manual reverse engineering workflows across the developer ecosystem today
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
