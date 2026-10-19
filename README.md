@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-10-19 · AI求职代理 / 开源语音合成 / 开源编码代理](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-19.html)
+  > 开源语音驱动开发与求职代理登顶 GitHub，独立开发者正快速抢占任务外包工具链
 - [2026-10-17 · 语音合成工具链 / 本地优先软件 / 代理插件化架构](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-17.html)
   > 独立开发者正通过垂直化工具链抢占通用模型留下的性能与隐私缝隙
 - [2026-10-16 · 开源逆向智能代理 / 开源语音合成工具 / 科学研究代理技能](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-16.html)
   > 开源语音合成与科研代理技能库今日登顶 GitHub，垂直工具链正在替代通用大模型
-- [2026-10-15 · AI代理审计工具 / 语音合成工具链 / 代理合规准入](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-15.html)
-  > AI代理审计工具成刚需，独立开发者抢滩企业安全准入市场
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 

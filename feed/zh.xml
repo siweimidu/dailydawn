@@ -7,7 +7,14 @@
     <description>DailyDawn daily AI trend report (zh)</description>
     <language>zh-CN</language>
     <docs>https://www.RSS.org/specifications/rss-2.0/</docs>
-    <lastBuildDate>Sat, 17 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>DailyDawn · 2026-10-19</title>
+      <link>https://siweimidu.github.io/dailydawn/zh/2026-10-19.html</link>
+      <guid isPermaLink="true">https://siweimidu.github.io/dailydawn/zh/2026-10-19.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>**📍 今日 Top 3 信号**</description>
+    </item>
     <item>
       <title>DailyDawn · 2026-10-17</title>
       <link>https://siweimidu.github.io/dailydawn/zh/2026-10-17.html</link>
@@ -209,13 +216,6 @@
       <link>https://siweimidu.github.io/dailydawn/zh/2026-09-19.html</link>
       <guid isPermaLink="true">https://siweimidu.github.io/dailydawn/zh/2026-09-19.html</guid>
       <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-      <description>**📍 今日 Top 3 信号**</description>
-    </item>
-    <item>
-      <title>DailyDawn · 2026-09-18</title>
-      <link>https://siweimidu.github.io/dailydawn/zh/2026-09-18.html</link>
-      <guid isPermaLink="true">https://siweimidu.github.io/dailydawn/zh/2026-09-18.html</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
       <description>**📍 今日 Top 3 信号**</description>
     </item>
   </channel>
