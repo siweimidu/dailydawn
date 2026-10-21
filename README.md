@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-10-21 · 开源自动化工具链 / 自动化外包代理 / 本地化推理架构](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-21.html)
+  > GitHub 自动化审计与求职代理登顶，垂直化工具链正快速蚕食通用大模型生态位
 - [2026-10-20 · 本地化求职代理 / 代理运行环境 / 开源编码代理](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-20.html)
   > 本地化代理框架登顶GitHub，开发者正通过私有化运行绕过云端隐私黑箱
 - [2026-10-19 · AI求职代理 / 开源语音合成 / 开源编码代理](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-19.html)
   > 开源语音驱动开发与求职代理登顶 GitHub，独立开发者正快速抢占任务外包工具链
-- [2026-10-17 · 语音合成工具链 / 本地优先软件 / 代理插件化架构](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-17.html)
-  > 独立开发者正通过垂直化工具链抢占通用模型留下的性能与隐私缝隙
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
