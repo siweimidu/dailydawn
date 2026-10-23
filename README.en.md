@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-10-23 · cloudflare security audit skill / local security audit / DietrichGebert ponytail orchestration](https://siweimidu.github.io/dailydawn/en/2026/2026-10-23.html)
+  > Cloudflare security audit skills surge on GitHub as developers automate local code hardening
 - [2026-10-22 · Specialized local infrastructure tooling / Modular local developer orchestration / Automated infrastructure hardening](https://siweimidu.github.io/dailydawn/en/2026/2026-10-22.html)
   > Stablyai Orca and DietrichGebert Ponytail gain traction as developers pivot toward specialized local infrastructure and security auditing
 - [2026-10-21 · Cloudflare security audit skill / Security audit skill growth / GitHub security and orchestration surge](https://siweimidu.github.io/dailydawn/en/2026/2026-10-21.html)
   > Cloudflare security audit skills surge on GitHub today as developers automate code hardening without proprietary middlemen
-- [2026-10-20 · Automated career pipelines / Job search automation growth / Developer infrastructure hardening](https://siweimidu.github.io/dailydawn/en/2026/2026-10-20.html)
-  > Automated recruitment tools surge on GitHub as indie developers prioritize career pipeline efficiency over manual job hunting
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
