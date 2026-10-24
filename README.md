@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-10-24 · 开源安全审计 / 搜索涨幅爆发 / 基础设施合规撤退](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-24.html)
+  > 开源安全审计工具登上榜单前列，零信任架构正在重塑开发者工具链
 - [2026-10-23 · 本地化审计工具 / 知识图谱本地化 / 本地优先工具链](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-23.html)
   > 本地知识图谱与自动化审计工具登顶，开发者正加速脱离云端向量数据库依赖
 - [2026-10-22 · 安全审计代理 / 合规准入赛道 / 轻量代理标准](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-22.html)
   > 安全审计与自动化工具登顶开源榜单，零信任架构正在接管遗留基础设施
-- [2026-10-21 · 开源自动化工具链 / 自动化外包代理 / 本地化推理架构](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-21.html)
-  > GitHub 自动化审计与求职代理登顶，垂直化工具链正快速蚕食通用大模型生态位
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
