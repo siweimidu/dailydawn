@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-10-26 · 安全审计 / SaaS看板 / 开源组件](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-26.html)
+  > Nutlope 推出 hallmark 剥离 UI 逻辑，开源组件库正在吃掉独立开发者的看板搭建红利
 - [2026-10-25 · 开源安全审计 / 基础设施合规 / 硬件控制权](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-25.html)
   > 开源安全审计工具登顶GitHub，开发者正通过零信任架构重塑基础设施合规标准
 - [2026-10-24 · 开源安全审计 / 搜索涨幅爆发 / 基础设施合规撤退](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-24.html)
   > 开源安全审计工具登上榜单前列，零信任架构正在重塑开发者工具链
-- [2026-10-23 · 本地化审计工具 / 知识图谱本地化 / 本地优先工具链](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-23.html)
-  > 本地知识图谱与自动化审计工具登顶，开发者正加速脱离云端向量数据库依赖
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
