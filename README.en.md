@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-10-27 · Local voice synthesis adoption / Autonomous trading agent infrastructure / Self-hosted developer orchestration tools](https://siweimidu.github.io/dailydawn/en/2026/2026-10-27.html)
+  > Independent developers are reclaiming audio synthesis pipelines as local tools rapidly displace expensive proprietary cloud API providers
 - [2026-10-26 · Cloudflare security audit skill / Local voice automation growth / VoiceStudio and hallmark surge](https://siweimidu.github.io/dailydawn/en/2026/2026-10-26.html)
   > Cloudflare security audit skills and local voice tools surge on GitHub as indie builders harden infrastructure
 - [2026-10-25 · Cloudflare security audit skill / Security audit skill growth / NVIDIA OpenShell infrastructure](https://siweimidu.github.io/dailydawn/en/2026/2026-10-25.html)
   > NVIDIA OpenShell and Cloudflare security skills surge on GitHub as developers automate local infrastructure hardening
-- [2026-10-24 · Cloudflare security audit skill / Local-first security tooling growth / Legacy infrastructure regulatory exit](https://siweimidu.github.io/dailydawn/en/2026/2026-10-24.html)
-  > Cloudflare security audit skills surge on GitHub today as developers automate local code hardening
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
