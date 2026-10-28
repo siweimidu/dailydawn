@@ -5,6 +5,13 @@
   "feed_url": "https://siweimidu.github.io/dailydawn/feed/en.json",
   "items": [
     {
+      "id": "https://siweimidu.github.io/dailydawn/en/2026-10-28.html",
+      "title": "DailyDawn · 2026-10-28",
+      "url": "https://siweimidu.github.io/dailydawn/en/2026-10-28.html",
+      "date_published": "2026-10-28T00:00:00Z",
+      "content_text": "**📍 Top 3 signals today**"
+    },
+    {
       "id": "https://siweimidu.github.io/dailydawn/en/2026-10-27.html",
       "title": "DailyDawn · 2026-10-27",
       "url": "https://siweimidu.github.io/dailydawn/en/2026-10-27.html",
@@ -205,13 +212,6 @@
       "title": "DailyDawn · 2026-09-28",
       "url": "https://siweimidu.github.io/dailydawn/en/2026-09-28.html",
       "date_published": "2026-09-28T00:00:00Z",
-      "content_text": "**📍 Top 3 signals today**"
-    },
-    {
-      "id": "https://siweimidu.github.io/dailydawn/en/2026-09-27.html",
-      "title": "DailyDawn · 2026-09-27",
-      "url": "https://siweimidu.github.io/dailydawn/en/2026-09-27.html",
-      "date_published": "2026-09-27T00:00:00Z",
       "content_text": "**📍 Top 3 signals today**"
     }
   ]
