@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-10-30 · impeccable 代理优化 / 本地 LLM 部署搜索 / Mistral Large 4 开源](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-30.html)
+  > 开源权重重塑推理下限，独立开发者正在摆脱高昂的云端 API 依赖
 - [2026-10-29 · 本地化智能教学 / 工具链本地化 / 模块化开发工具](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-29.html)
   > DeepTutor与LinkSwift领衔GitHub开源榜单，开发者正回归本地化智能辅助工具
 - [2026-10-28 · AI 垃圾代码防御 / 垂直教育代理 / 巨头战略收缩](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-28.html)
   > GitHub 登榜过滤工具狙击 AI 垃圾代码，开发者正从生成转向质量控制
-- [2026-10-27 · 本地语音合成闭环 / 开源本地化语音工具 / 本地优先工具链演进](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-27.html)
-  > 开源语音克隆工具 VoiceStudio 登顶 GitHub，独立开发者正在摆脱高昂云端 API 订阅费
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
