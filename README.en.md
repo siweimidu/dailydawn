@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-10-31 · Mistral Large 4 local deployment / Impeccable agentic verification frameworks / DeepTutor intelligent educational agent architectures](https://siweimidu.github.io/dailydawn/en/2026/2026-10-31.html)
+  > Open weight model releases and supply chain security failures force immediate architectural shifts in developer tooling ecosystems
 - [2026-10-30 · Agentic quality control frameworks / DeepTutor intelligent educational agents / Structured agentic output verification](https://siweimidu.github.io/dailydawn/en/2026/2026-10-30.html)
   > Impeccable and DeepTutor frameworks gain traction as developers prioritize automated quality control over raw agent output speed
 - [2026-10-29 · DeepTutor intelligent framework / agent verification demand / hallmark and impeccable auditing](https://siweimidu.github.io/dailydawn/en/2026/2026-10-29.html)
   > HKUDS DeepTutor and Nutlope hallmark surge on GitHub as indie builders automate agent output verification
-- [2026-10-28 · Hallmark anti-slop design skill / Anti-AI-slop design demand / Agent output verification surge](https://siweimidu.github.io/dailydawn/en/2026/2026-10-28.html)
-  > Nutlope hallmark styling agent trends on GitHub as developers reject AI slop output
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
