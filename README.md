@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-11-05 · claude-mem 记忆外挂 / 本地数据获取与桌面端 / 本地化状态管理迁移](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-05.html)
+  > thedotmack claude-mem 登顶开源榜，本地化记忆压缩正在瓦解云端上下文订阅
 - [2026-11-04 · 本地 Agent 标准化 / 本地化数据获取 / Claude 本地代码代理](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-04.html)
   > 本地 Agent 接口标准化浪潮开启，开发者正通过 CLI 封装绕过云端依赖
 - [2026-11-02 · 本地化代码代理 / 本地记忆管理 / 模块化开发代理](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-02.html)
   > GitHub开源工具链向本地化代理迁移，独立开发者正通过模块化编排绕过云端API订阅
-- [2026-10-31 · 本地代理优化 / 智能教学辅助 / 模块化开发工具](https://siweimidu.github.io/dailydawn/zh/2026/2026-10-31.html)
-  > GitHub 智能辅助工具 DeepTutor 与代理优化框架 impeccable 领跑开源趋势
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
