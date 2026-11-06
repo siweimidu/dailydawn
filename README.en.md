@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-11-06 · NVIDIA auto-ontology semantic reasoning / Agent desktop local CLI surge / Local AI agent orchestration tools](https://siweimidu.github.io/dailydawn/en/2026/2026-11-06.html)
+  > Nvidia auto-ontology and Vercel agent desktop tools lead local AI software orchestration surges
 - [2026-11-05 · Agent Desktop CLI / Local Orchestration Growth / Self-Hosted Utility Tools](https://siweimidu.github.io/dailydawn/en/2026/2026-11-05.html)
   > Vercel agent-desktop and Scrapling lead local AI orchestration surges as builders bypass cloud limits
 - [2026-11-04 · Vercel agent-desktop CLI / Scrapling automation framework / Local AI agent orchestration](https://siweimidu.github.io/dailydawn/en/2026/2026-11-04.html)
   > Vercel agent desktop CLI and Scrapling web automation tools signal a shift toward local AI software orchestration
-- [2026-11-02 · Local codebase orchestration / Local codebase orchestration growth / Self-hosted AI infrastructure](https://siweimidu.github.io/dailydawn/en/2026/2026-11-02.html)
-  > T3code and Claude-mem surge on GitHub as developers prioritize local codebase orchestration over proprietary cloud agent constraints
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
