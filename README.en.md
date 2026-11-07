@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-11-07 · Cloudflare security audit skill / Agent security skills growth / Mattpocock agent skills repo](https://siweimidu.github.io/dailydawn/en/2026/2026-11-07.html)
+  > Cloudflare security audit skills and Mattpocock agent configs surge on GitHub as developers prioritize execution precision
 - [2026-11-06 · NVIDIA auto-ontology semantic reasoning / Agent desktop local CLI surge / Local AI agent orchestration tools](https://siweimidu.github.io/dailydawn/en/2026/2026-11-06.html)
   > Nvidia auto-ontology and Vercel agent desktop tools lead local AI software orchestration surges
 - [2026-11-05 · Agent Desktop CLI / Local Orchestration Growth / Self-Hosted Utility Tools](https://siweimidu.github.io/dailydawn/en/2026/2026-11-05.html)
   > Vercel agent-desktop and Scrapling lead local AI orchestration surges as builders bypass cloud limits
-- [2026-11-04 · Vercel agent-desktop CLI / Scrapling automation framework / Local AI agent orchestration](https://siweimidu.github.io/dailydawn/en/2026/2026-11-04.html)
-  > Vercel agent desktop CLI and Scrapling web automation tools signal a shift toward local AI software orchestration
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
