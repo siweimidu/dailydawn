@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-11-08 · 自动化安全审计 / 本地化身份溯源 / 流水线防御构建](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-08.html)
+  > GitHub 安全审计工具链爆发，开发者正将多阶段验证逻辑集成至自动化流水线
 - [2026-11-07 · 智能安全审计框架 / 自动化本体构建 / 开发工具链迁移](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-07.html)
   > GitHub安全审计框架登顶，开发者正将多阶段验证逻辑集成至自动化流水线
 - [2026-11-06 · 本地语义化图谱 / UI 自动化爬虫 / 桌面端 Agent 编排](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-06.html)
   > GitHub 桌面端 Agent 工具链爆发，开发者正绕过云端 API 转向原生交互
-- [2026-11-05 · claude-mem 记忆外挂 / 本地数据获取与桌面端 / 本地化状态管理迁移](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-05.html)
-  > thedotmack claude-mem 登顶开源榜，本地化记忆压缩正在瓦解云端上下文订阅
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
