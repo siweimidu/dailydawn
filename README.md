@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-11-10 · 开源安全审计工具 / 自动化硬件机器人 / 本地化开发代理](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-10.html)
+  > 开源安全审计与自动化工具今日领跑，独立开发者正加速摆脱云端依赖
 - [2026-11-09 · 本地隐私分类器 / AI 安全审计 / 英伟达治理危机](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-09.html)
   > Apple 隐私分类器与英伟达治理危机凸显大厂基础设施脆弱性
 - [2026-11-08 · 自动化安全审计 / 本地化身份溯源 / 流水线防御构建](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-08.html)
   > GitHub 安全审计工具链爆发，开发者正将多阶段验证逻辑集成至自动化流水线
-- [2026-11-07 · 智能安全审计框架 / 自动化本体构建 / 开发工具链迁移](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-07.html)
-  > GitHub安全审计框架登顶，开发者正将多阶段验证逻辑集成至自动化流水线
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 

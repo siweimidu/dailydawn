@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-11-10 · Sherlock identity recon / Astryx design systems / OpenMausBot automation](https://siweimidu.github.io/dailydawn/en/2026/2026-11-10.html)
+  > Sherlock username hunters and Astryx design systems surge on GitHub as developers demand private OSINT tooling
 - [2026-11-09 · Enterprise AI security leakage / High performance browser ports / Local Mac family classifiers](https://siweimidu.github.io/dailydawn/en/2026/2026-11-09.html)
   > Browser-based gaming engines expose native desktop app bloat while corporate AI tools suffer severe security leaks
 - [2026-11-08 · Agentic security audit automation / Privacy-focused banking exclusion / Open-source hardware ecosystem growth](https://siweimidu.github.io/dailydawn/en/2026/2026-11-08.html)
   > Banking exclusion of privacy-focused Android users creates a massive unserved market for hardened financial infrastructure alternatives
-- [2026-11-07 · Cloudflare security audit skill / Agent security skills growth / Mattpocock agent skills repo](https://siweimidu.github.io/dailydawn/en/2026/2026-11-07.html)
-  > Cloudflare security audit skills and Mattpocock agent configs surge on GitHub as developers prioritize execution precision
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
