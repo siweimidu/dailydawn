@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-11-12 · Meta Astryx design system / Agent memory context layers / Local AI interface standards](https://siweimidu.github.io/dailydawn/en/2026/2026-11-12.html)
+  > Meta design systems surge on GitHub as engineering teams standardize agentic user interfaces
 - [2026-11-11 · Agentic infrastructure standards / Agentic infrastructure interest surge / Consolidated agent interface protocols](https://siweimidu.github.io/dailydawn/en/2026/2026-11-11.html)
   > Meta and Anthropic release new agentic infrastructure tools as developers pivot toward specialized execution layers
 - [2026-11-10 · Sherlock identity recon / Astryx design systems / OpenMausBot automation](https://siweimidu.github.io/dailydawn/en/2026/2026-11-10.html)
   > Sherlock username hunters and Astryx design systems surge on GitHub as developers demand private OSINT tooling
-- [2026-11-09 · Enterprise AI security leakage / High performance browser ports / Local Mac family classifiers](https://siweimidu.github.io/dailydawn/en/2026/2026-11-09.html)
-  > Browser-based gaming engines expose native desktop app bloat while corporate AI tools suffer severe security leaks
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
