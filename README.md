@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-11-13 · 27B本地模型 / 地理数据Agent / 算力治理危机](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-13.html)
+  > 中等规模模型在本地化部署中展现出超越大参数模型的推理性价比
 - [2026-11-12 · 本地Agent编排 / 智能家居脱网 / 算力治理危机](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-12.html)
   > Meta开源astryx重构Agent编排，开发者正绕过云端控制权实现自主工作流
 - [2026-11-11 · Meta开源astryx与Skills / Google Gemini隐私路由曝光 / 企业端剥离云端大模型依赖](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-11.html)
   > Meta开源astryx与Anthropic skills登顶，独立开发者正加速摆脱中心化依赖
-- [2026-11-10 · 开源安全审计工具 / 自动化硬件机器人 / 本地化开发代理](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-10.html)
-  > 开源安全审计与自动化工具今日领跑，独立开发者正加速摆脱云端依赖
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
