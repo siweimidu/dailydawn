@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-11-14 · Rust 1.100 stability / offline-first architecture demand / Microsoft 365 cloud outage](https://siweimidu.github.io/dailydawn/en/2026/2026-11-14.html)
+  > Rust 1.100 and Microsoft cloud degradations expose infrastructure fragility as enterprise developers demand resilient systems
 - [2026-11-13 · Nvidia leadership crisis / Trading infrastructure fragility / Open-weight model migration](https://siweimidu.github.io/dailydawn/en/2026/2026-11-13.html)
   > Jane Street datacenter failures highlight critical physical fragility in high-frequency trading infrastructure requiring immediate hardware-level redundancy
 - [2026-11-12 · Meta Astryx design system / Agent memory context layers / Local AI interface standards](https://siweimidu.github.io/dailydawn/en/2026/2026-11-12.html)
   > Meta design systems surge on GitHub as engineering teams standardize agentic user interfaces
-- [2026-11-11 · Agentic infrastructure standards / Agentic infrastructure interest surge / Consolidated agent interface protocols](https://siweimidu.github.io/dailydawn/en/2026/2026-11-11.html)
-  > Meta and Anthropic release new agentic infrastructure tools as developers pivot toward specialized execution layers
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
