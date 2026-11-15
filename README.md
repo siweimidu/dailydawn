@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-11-15 · 确定性工程 / 自动化代码审计 / 云端依赖剥离](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-15.html)
+  > GitHub代码合规工具今日激增，独立开发者正通过自动化审计摆脱黑盒生成依赖
 - [2026-11-14 · Anthropic IPO / Rust 1.100 / 云端基础设施韧性](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-14.html)
   > Anthropic IPO 启动与 Rust 1.100 发布，开发者正加速构建脱离云端依赖的自主工作流
 - [2026-11-13 · 27B本地模型 / 地理数据Agent / 算力治理危机](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-13.html)
   > 中等规模模型在本地化部署中展现出超越大参数模型的推理性价比
-- [2026-11-12 · 本地Agent编排 / 智能家居脱网 / 算力治理危机](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-12.html)
-  > Meta开源astryx重构Agent编排，开发者正绕过云端控制权实现自主工作流
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
