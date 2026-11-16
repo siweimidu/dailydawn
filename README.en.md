@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-11-16 · Starship mechanical recovery / Qwen parameter efficiency / Open source AI code](https://siweimidu.github.io/dailydawn/en/2026/2026-11-16.html)
+  > SpaceX Starship Flight 15 mechanical catch and Qwen3.8-27B local efficiency reset open-weights deployment economics
 - [2026-11-15 · Automated web architecture standards / Agentic browser debugging / Open-source code review infrastructure](https://siweimidu.github.io/dailydawn/en/2026/2026-11-15.html)
   > Chrome DevTools integration and open code review tools signal a shift toward autonomous browser-based infrastructure auditing
 - [2026-11-14 · Rust 1.100 stability / offline-first architecture demand / Microsoft 365 cloud outage](https://siweimidu.github.io/dailydawn/en/2026/2026-11-14.html)
   > Rust 1.100 and Microsoft cloud degradations expose infrastructure fragility as enterprise developers demand resilient systems
-- [2026-11-13 · Nvidia leadership crisis / Trading infrastructure fragility / Open-weight model migration](https://siweimidu.github.io/dailydawn/en/2026/2026-11-13.html)
-  > Jane Street datacenter failures highlight critical physical fragility in high-frequency trading infrastructure requiring immediate hardware-level redundancy
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
