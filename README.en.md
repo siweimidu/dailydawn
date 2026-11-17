@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-11-17 · Univer modular spreadsheet SDK / Claude-BugHunter security agents / Modular agentic infrastructure shift](https://siweimidu.github.io/dailydawn/en/2026/2026-11-17.html)
+  > Univer and Claude-BugHunter signal a massive pivot toward modular, agentic infrastructure tools that replace legacy SaaS suites
 - [2026-11-16 · Starship mechanical recovery / Qwen parameter efficiency / Open source AI code](https://siweimidu.github.io/dailydawn/en/2026/2026-11-16.html)
   > SpaceX Starship Flight 15 mechanical catch and Qwen3.8-27B local efficiency reset open-weights deployment economics
 - [2026-11-15 · Automated web architecture standards / Agentic browser debugging / Open-source code review infrastructure](https://siweimidu.github.io/dailydawn/en/2026/2026-11-15.html)
   > Chrome DevTools integration and open code review tools signal a shift toward autonomous browser-based infrastructure auditing
-- [2026-11-14 · Rust 1.100 stability / offline-first architecture demand / Microsoft 365 cloud outage](https://siweimidu.github.io/dailydawn/en/2026/2026-11-14.html)
-  > Rust 1.100 and Microsoft cloud degradations expose infrastructure fragility as enterprise developers demand resilient systems
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
