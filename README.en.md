@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-11-21 · Claude-BugHunter security skills / Security audit skills demand / Riemann Hypothesis proof](https://siweimidu.github.io/dailydawn/en/2026/2026-11-21.html)
+  > Mathematical proof breakthroughs and specialized audit skills overtake general model releases as open-source builders pivot toward security and infrastructure verification
 - [2026-11-19 · Autonomous paper orchestration / Agentic harness performance / Specialized orchestration tools](https://siweimidu.github.io/dailydawn/en/2026/2026-11-19.html)
   > Open source researchers shift to autonomous paper orchestration as agentic system performance optimization gains massive developer traction
 - [2026-11-18 · Agentic framework adoption / Autonomous infrastructure auditing / Modular agentic infrastructure](https://siweimidu.github.io/dailydawn/en/2026/2026-11-18.html)
   > GitHub developers prioritize specialized orchestration tools over monolithic SaaS as agentic automation workflows gain significant traction
-- [2026-11-17 · Univer modular spreadsheet SDK / Claude-BugHunter security agents / Modular agentic infrastructure shift](https://siweimidu.github.io/dailydawn/en/2026/2026-11-17.html)
-  > Univer and Claude-BugHunter signal a massive pivot toward modular, agentic infrastructure tools that replace legacy SaaS suites
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 

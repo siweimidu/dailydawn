@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-11-21 · Claude BugHunter 突破 / AI 护栏搜索涨幅 / 黎曼猜想数学证明](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-21.html)
+  > 数学界密集发布黎曼猜想证明，AI辅助验证正重构基础研究边界
 - [2026-11-19 · ECC安全架构 / PaperOrchestra / 基础设施漏洞](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-19.html)
   > 端到端安全库ECC与端侧智能体框架今日登顶，开发者正集体构筑去云端依赖防线
 - [2026-11-18 · Univer 表格组件开源 / AG-UI 交互协议 / 自动化审计编排](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-18.html)
   > 开源表格与前端组件强势登顶，独立开发者正加速摆脱商业SaaS垄断
-- [2026-11-17 · Univer表格开源 / ClaudeBugHunter / AI代码开源辩论](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-17.html)
-  > 开源表格工具Univer登顶GitHub趋势榜，独立开发者正加速摆脱商业表格垄断
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
