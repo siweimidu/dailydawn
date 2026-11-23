@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-11-23 · Claude-BugHunter 自动化调试 / Qwen3.8-27B 本地推理衍生 / 车企标准化零件供应链](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-23.html)
+  > Claude-BugHunter 插件登顶与车企标准化零件引发供应链重组
 - [2026-11-22 · 红队自动化标注 / 移动端合规审计 / 安全基础设施](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-22.html)
   > Claude-BugHunter 自动化红队工具登顶，安全领域正通过模式化标注重构防御体系
 - [2026-11-21 · Claude BugHunter 突破 / AI 护栏搜索涨幅 / 黎曼猜想数学证明](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-21.html)
   > 数学界密集发布黎曼猜想证明，AI辅助验证正重构基础研究边界
-- [2026-11-19 · ECC安全架构 / PaperOrchestra / 基础设施漏洞](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-19.html)
-  > 端到端安全库ECC与端侧智能体框架今日登顶，开发者正集体构筑去云端依赖防线
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
