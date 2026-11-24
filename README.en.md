@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-11-24 · Modular agentic bug-hunting / Browser engine independence / Independent infrastructure stack](https://siweimidu.github.io/dailydawn/en/2026/2026-11-24.html)
+  > Independent browser engines and specialized bug-hunting agents signal a definitive shift toward modular, non-corporate web infrastructure stacks
 - [2026-11-23 · Claude-BugHunter agent workflow / Agent security audit growth / Automotive hardware standardization](https://siweimidu.github.io/dailydawn/en/2026/2026-11-23.html)
   > Automotive legacy supply chain standardization forces hardware manufacturing cost reckonings across global tech infrastructure markets
 - [2026-11-22 · Claude-BugHunter security skills / Compliance agent demand / Agentic security verification](https://siweimidu.github.io/dailydawn/en/2026/2026-11-22.html)
   > Agentic security auditing tools displace generalized code review pipelines as indie developers prioritize vulnerability detection over standard linting
-- [2026-11-21 · Claude-BugHunter security skills / Security audit skills demand / Riemann Hypothesis proof](https://siweimidu.github.io/dailydawn/en/2026/2026-11-21.html)
-  > Mathematical proof breakthroughs and specialized audit skills overtake general model releases as open-source builders pivot toward security and infrastructure verification
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
