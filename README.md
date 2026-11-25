@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-11-25 · 红队自动化审计 / 安全工具搜索 / 自动化调试编排](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-25.html)
+  > Claude-BugHunter 自动化红队工具持续霸榜，安全审计正向模式化防御演进
 - [2026-11-24 · 红队自动化审计 / 安全工具搜索 / 自动化调试编排](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-24.html)
   > Claude-BugHunter 自动化红队工具登顶，安全审计正通过模式化标注重构防御体系
 - [2026-11-23 · Claude-BugHunter 自动化调试 / Qwen3.8-27B 本地推理衍生 / 车企标准化零件供应链](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-23.html)
   > Claude-BugHunter 插件登顶与车企标准化零件引发供应链重组
-- [2026-11-22 · 红队自动化标注 / 移动端合规审计 / 安全基础设施](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-22.html)
-  > Claude-BugHunter 自动化红队工具登顶，安全领域正通过模式化标注重构防御体系
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
