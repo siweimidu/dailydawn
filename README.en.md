@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-11-26 · CLI-Anything generator / terminal tools surge / CLI workflow migration](https://siweimidu.github.io/dailydawn/en/2026/2026-11-26.html)
+  > CLI wrapper tools dominate GitHub trending today as indie builders ship terminal native workflows
 - [2026-11-25 · Autonomous security agent frameworks / Red-teaming dataset demand / Domain-specific security agent shift](https://siweimidu.github.io/dailydawn/en/2026/2026-11-25.html)
   > Autonomous security agents dominate developer workflows as specialized red-teaming skills displace traditional static code analysis suites
 - [2026-11-24 · Modular agentic bug-hunting / Browser engine independence / Independent infrastructure stack](https://siweimidu.github.io/dailydawn/en/2026/2026-11-24.html)
   > Independent browser engines and specialized bug-hunting agents signal a definitive shift toward modular, non-corporate web infrastructure stacks
-- [2026-11-23 · Claude-BugHunter agent workflow / Agent security audit growth / Automotive hardware standardization](https://siweimidu.github.io/dailydawn/en/2026/2026-11-23.html)
-  > Automotive legacy supply chain standardization forces hardware manufacturing cost reckonings across global tech infrastructure markets
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 
