@@ -24,12 +24,12 @@
 
 ## Latest 3 issues
 
+- [2026-11-28 · Claude-BugHunter agent workflow / Bug-hunting infrastructure shift / Automated security verification](https://siweimidu.github.io/dailydawn/en/2026/2026-11-28.html)
+  > Automated security bug-hunting agents emerge on GitHub trending as developers prioritize automated vulnerability detection
 - [2026-11-27 · Independent web data scraping / Hyper-efficient local training / Local-first infrastructure transition](https://siweimidu.github.io/dailydawn/en/2026/2026-11-27.html)
   > Local inference architectures surge as developers abandon rate-limited cloud APIs for hyper-efficient small-scale model deployment
 - [2026-11-26 · CLI-Anything generator / terminal tools surge / CLI workflow migration](https://siweimidu.github.io/dailydawn/en/2026/2026-11-26.html)
   > CLI wrapper tools dominate GitHub trending today as indie builders ship terminal native workflows
-- [2026-11-25 · Autonomous security agent frameworks / Red-teaming dataset demand / Domain-specific security agent shift](https://siweimidu.github.io/dailydawn/en/2026/2026-11-25.html)
-  > Autonomous security agents dominate developer workflows as specialized red-teaming skills displace traditional static code analysis suites
 
 [Full archive →](https://siweimidu.github.io/dailydawn/en/)
 

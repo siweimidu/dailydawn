@@ -24,12 +24,12 @@
 
 ## 最近 3 期日报
 
+- [2026-11-28 · 红队自动化审计 / 本地化调试工具 / 去云端依赖栈](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-28.html)
+  > 自动化红队工具 Claude-BugHunter 登榜，开发者正通过本地化手段规避闭源模型的过度防御
 - [2026-11-27 · Firecrawl 统一 API / 红队自动化审计 / 去云端依赖栈](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-27.html)
   > Firecrawl 统一 API 消除数据管道瓶颈，开发者正通过自动化工具绕过反爬围墙
 - [2026-11-26 · Firecrawl 聚合 API / BugHunter 安全审计 / CLI 终端代理重构](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-26.html)
   > firecrawl 仓库登榜 GitHub 聚合 550 家 API 压降 AI 训练成本
-- [2026-11-25 · 红队自动化审计 / 安全工具搜索 / 自动化调试编排](https://siweimidu.github.io/dailydawn/zh/2026/2026-11-25.html)
-  > Claude-BugHunter 自动化红队工具持续霸榜，安全审计正向模式化防御演进
 
 [全部归档 →](https://siweimidu.github.io/dailydawn/zh/)
 
